@@ -1,0 +1,17 @@
+{
+    "borrowers":
+    [
+       {
+
+            "fullname": "hhhh",
+            "dob": "hhhh",
+            "contact": 5555,
+            "email": "jjjj",
+            "password": "4444",
+            "book_id": "12345",
+            "book_borrowed": "physics",
+            "borrowed_date": "08/16/21"
+        }
+        
+    ]
+} 

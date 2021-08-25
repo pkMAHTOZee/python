@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "book_id": "12345",
+            "book_name": "physics",
+            "Author": "abc",
+            "pages": 50,
+            "no_of_copies": 5,
+            "published_year": "2019",
+            "ISBN": "978-92-95055-02-05"
+        },
+        {
+            "book_id": "123456",
+            "book_name": "kjll",
+            "Author": "jopi",
+            "pages": "65",
+            "no_of_copies": 56,
+            "published_year": "2016",
+            "ISBN": "555555"
+        }
+    ]
+}

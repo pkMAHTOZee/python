@@ -1,0 +1,24 @@
+{
+    "admin": [
+        {
+            "name": "admin",
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "name": "pkm",
+            "username": "pkm",
+            "password": "pk"
+        },
+        {
+            "name": "plm",
+            "username": "plm",
+            "password": "plm"
+        },
+        {
+            "name": "praveen",
+            "username": "pkm",
+            "password": "123456789"
+        }
+    ]
+}

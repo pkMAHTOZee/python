@@ -1,0 +1,18 @@
+{
+    "register": [
+        {
+            "fullname": "hhhh",
+            "dob": "02-05-1997",
+            "contact": 5555,
+            "email": "jjjj",
+            "password": "4444"
+        },
+        {
+            "fullname": "praveen",
+            "dob": "02-04-1997",
+            "contact": "8797****",
+            "email": "mahtoji@demo.com",
+            "password": "2514634888"
+        }
+    ]
+}
